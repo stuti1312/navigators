@@ -1,0 +1,9 @@
+Stack Navigator
+Drawer Navigator
+    -gestur handler library,
+    -reanimated and reanimated2,
+    -add bable plugin 1 line command after comma of 1st command in bable file into babel.config.js
+Bottom Tab Navigator
+material top tab navigator
+
+vector icon- android/app/build.gradle - add command in 2nd line
